@@ -20,5 +20,10 @@ Extract jar file from target folder and execute following command where filename
 java -jar find-best-plan.jar $filename $features
 ```
 
+- sample input (tested using postman)
+![img.png](img.png)
+- sample output
+![img_1.png](img_1.png)
+
 ## Improvement
 Implement recursive function to find combination of plans with lowest cost by recursively reducing features required
